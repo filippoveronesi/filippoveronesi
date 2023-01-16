@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with Neural Networks
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/filippoveronesi)
 
-Recent works: 
+## Recent works: 
 - [BugTablut](https://github.com/DaniDF/BugTablutChallenge), an artificial intelligence for the Tablut Game Competition,
 - [CryptoPackDelivery](https://github.com/luigidinuzzo/CryptoPackDelivery), an Ethereum's dApp, 
 - [eye_pupil_tracker](https://github.com/DaniDF/eye_pupil_tracker), an Android's application with two neural networks, 
