@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently studying MSc Computer Science Engineering
-- 🌱 I’m currently building a Python's F1 telemetry app
+- 🌱 I’m currently building a Python's Formula 1 telemetry app
 - 👯 I’m looking to collaborate on projects 
 - 🤔 I’m looking for help with Neural Networks
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/filippoveronesi)
