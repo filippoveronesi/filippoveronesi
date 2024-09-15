@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently studying MSc Computer Science Engineering
+- 🔭 I’m currently working as Automation Software Engineer in the automotive sector.
 - 🌱 I’m currently building a Python's Formula 1 telemetry app
 - 👯 I’m looking to collaborate on projects 
 - 🤔 I’m looking for help with Neural Networks
